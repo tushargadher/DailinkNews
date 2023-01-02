@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DailinkNews/static/css/main.b74675f4.css",
+    "main.js": "/DailinkNews/static/js/main.4c726d82.js",
+    "static/js/787.d5226285.chunk.js": "/DailinkNews/static/js/787.d5226285.chunk.js",
+    "index.html": "/DailinkNews/index.html",
+    "main.b74675f4.css.map": "/DailinkNews/static/css/main.b74675f4.css.map",
+    "main.4c726d82.js.map": "/DailinkNews/static/js/main.4c726d82.js.map",
+    "787.d5226285.chunk.js.map": "/DailinkNews/static/js/787.d5226285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74675f4.css",
+    "static/js/main.4c726d82.js"
+  ]
+}
